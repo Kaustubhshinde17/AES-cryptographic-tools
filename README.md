@@ -1,5 +1,28 @@
 # AES Cryptographic Tool
 
+**COMPANEY**: CODTECH IT SOLUTIONS
+**NAME**: Kaustubh Dattatray Shinde
+**INTERN ID**: CT08IFP
+**BATCH DURATION**: January 10th, 2025 to February 10th, 2025.
+**MENTOR NAME**: NEELA SANTOSH
+**DESCRIPTION**: 
+Penetration Testing Toolkit Description
+Name: PentestPro Toolkit (Example)
+
+Overview:
+The PentestPro Toolkit is a modular framework designed for security professionals to evaluate and enhance the security posture of IT systems and networks. It consists of multiple modules, each addressing a specific aspect of penetration testing. The toolkit is flexible, extendable, and user-friendly, catering to both beginners and advanced security testers.
+
+Core Modules
+Port Scanner Module
+
+Purpose: Identify open ports and services on a target system.
+Features:
+Multi-threaded scanning for speed.
+Support for protocols like TCP, UDP, and SCTP.
+Customizable scan options (e.g., port ranges, stealth scans).
+Detailed output with service detection.
+Brute-Forcer Module
+
 AES Stands for Advanced Encryption Standards. 
 A Simple Encryption and Decryption Cryptographic tool for encrypting and decrypting our files.
 This tool can able to encrypt (Images/Videos/Audios/Text/) and otherfiles as well.
